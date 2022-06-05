@@ -33,7 +33,9 @@ Create Public and Private Key ,  Server login without password , Disable root lo
     Match all
     
     save and restart sshd.service
-
+    sudo systemctl restart ssh
+    
+![Screenshot 2022-06-05 114538](https://user-images.githubusercontent.com/47558327/172038046-64da9fb8-ec0c-4fa4-82ff-be88859e0ee1.png)
     
 7.If you can give a name in server ip (only linux)
 
