@@ -3,7 +3,7 @@ Create Public and Private Key ,  Server login without password , Disable root lo
 
 1.Create New User
   
-    sudo useradd username
+    sudo adduser username
     
 2.Add Sudo Userpermission
     
